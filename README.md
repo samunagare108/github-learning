@@ -1,6 +1,6 @@
-# github-learning
+## github-learning
 This is my first repository.
 <br>
-Author-Samruddhi Nagare
+Author-Samruddhi Nagare(author)
 
 
